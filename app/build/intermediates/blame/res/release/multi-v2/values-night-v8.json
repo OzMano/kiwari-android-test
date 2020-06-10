@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\Android\\Interview\\Kiwari\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\STRIX\\.gradle\\caches\\transforms-2\\files-2.1\\f54cf08a666c1c4f3256668f72991e2e\\appcompat-1.0.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "237,307,391,475,571,673,775",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "302,386,470,566,668,770,864"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\STRIX\\.gradle\\caches\\transforms-2\\files-2.1\\6aca584909caa79d8c49b4f3a82e1b6b\\jetified-emoji-0.6.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,120,180",
+                        "endColumns": "64,59,56",
+                        "endOffsets": "115,175,232"
+                    }
+                }
+            ]
+        }
+    ]
+}

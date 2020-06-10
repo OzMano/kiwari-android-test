@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kiwari</string>
+    <string name="logout">Logout</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="slogan">#BeraniAja</string>
+    <string name="tagline">Dengan Kiwari semua jadi cakep</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="send_message_hint">Ketik pesan…</string>
+    <string name="dialog_signout_title">Sign Out</string>
+    <string name="dialog_signout_body">Apakah kamu ingin keluar?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="message_cannot_empty">Pesan tidak boleh kosong</string>
+    <string name="login_email_password_empty">Isi email dan password dengan benar!</string>
+</resources>

@@ -1,0 +1,7 @@
+#Thu Jun 11 02:20:41 ICT 2020
+base.0=D\:\\Projects\\Android\\Interview\\Kiwari\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Projects\\Android\\Interview\\Kiwari\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex

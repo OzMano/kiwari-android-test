@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "906194871390",
+    "firebase_url": "https://kiwari-chat-sample.firebaseio.com",
+    "project_id": "kiwari-chat-sample",
+    "storage_bucket": "kiwari-chat-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906194871390:android:03e29ecd85b4fba55340cf",
+        "android_client_info": {
+          "package_name": "com.chataja.kiwari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906194871390-vskk3u14l6i9s398qalptqv1tlqvl78f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8r0GPLtfEVuQOTr_DI2X40Uc_VF3gLq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906194871390-vskk3u14l6i9s398qalptqv1tlqvl78f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
