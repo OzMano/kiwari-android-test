@@ -1,6 +1,6 @@
-# Kiwari
+# Kiwari 
 Simple One to One chat app backed by Firebase Realtime DB built in Kotlin.
-
+[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/OzMano/kiwari-android-test/raw/master/app/release/KiwariChat.apk)
 ## Screenshots
 
 <p>
